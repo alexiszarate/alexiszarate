@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alexiszarate
+- 👀 I’m interested in develop readable and secure code.
+- 🌱 I’m currently learning Ruby and cybersecurity.
+- 💞️ I’m looking to collaborate on any type of project.
+- 📫 How to reach me alexiszarate00@gmail.com
